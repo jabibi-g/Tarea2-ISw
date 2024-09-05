@@ -1,7 +1,7 @@
 // Author: Javier González Catalán
 
 //Ejercicio 1: Variables y Tipos de Datos.
-console.log("Ejercicio 1:")
+console.log("Ejercicio 1:");
 
 let nombre = "Javier";
 const edad = 22; //Variables 'const' son inmutables en el futuro (sólo lectura).

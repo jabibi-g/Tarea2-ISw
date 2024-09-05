@@ -1,3 +1,5 @@
+//Author: Javier González Catalán.
+
 //Ejercicio 2: Operadores Aritméticos.
 console.log("Ejercicio 2:");
 
