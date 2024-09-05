@@ -39,4 +39,7 @@ console.log("División: ", numero1 / numero2);
     //Modulo:
 console.log("Modulo: ", numero1 % numero2);
 
+//Ejercicio 3: Operadores de asignación y comparación.
+console.log("\nEjercicio 3:");
 
+    //Dados 
