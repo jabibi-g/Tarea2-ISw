@@ -5,5 +5,7 @@
 2. Operadores aritméticos.
 3. Operadores de asignación y comparación.
 4. Condicionales
+5. Ciclos.
+6. Funciones.
 
 *faltan más...*
