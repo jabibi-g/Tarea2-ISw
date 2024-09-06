@@ -1,4 +1,4 @@
-//Author: Javier González Catalán.
+// Autor: Javier González Catalán.
 
 //Dados los siguientes valores numéricos:
 const numero1 = 20;
