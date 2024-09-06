@@ -1,8 +1,5 @@
 //Author: Javier González Catalán.
 
-//Ejercicio 2: Operadores Aritméticos.
-console.log("Ejercicio 2:");
-
 //Dados los siguientes valores numéricos:
 const numero1 = 20;
 const numero2 = 40;
