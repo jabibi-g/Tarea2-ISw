@@ -1,5 +1,7 @@
 // Autor: Javier González Catalán.
 
+//Ejercicio 2: Operadores aritméticos.
+
 //Dados los siguientes valores numéricos:
 const numero1 = 20;
 const numero2 = 40;
