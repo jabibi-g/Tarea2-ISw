@@ -1,4 +1,4 @@
-// Author: Javier González Catalán
+// Autor: Javier González Catalán
 
 //Ejercicio 1: Variables y tipos de datos.
 let nombre = "Javier";
